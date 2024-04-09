@@ -41,9 +41,8 @@ To get started with this project, follow these instructions:
    ```plaintext
    GOOGLE_GENERATIVE_AI_API_KEY=your-api-key="your api key"
    ```
-
-   Setup your own Gemini and generate a API key
-   Replace `your-api-key` with your actual API key for the Google Generative AI service.
+3. **Setup your own Gemini and generate a API key** <br>
+   **Replace `your-api-key` with your actual API key for the Google Generative AI service.** ❗
 
 ### Usage
 
