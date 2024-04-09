@@ -39,7 +39,7 @@ To get started with this project, follow these instructions:
 2. Add your environment variables to the `.env` file in the following format:
 
    ```plaintext
-   GOOGLE_GENERATIVE_AI_API_KEY=your-api-key
+   GOOGLE_GENERATIVE_AI_API_KEY=your-api-key="your api key"
    ```
 
    Setup your own Gemini and generate a API key
