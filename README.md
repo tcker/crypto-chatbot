@@ -55,8 +55,5 @@ To get started with this project, follow these instructions:
 
 2. Access the application in your web browser at [http://localhost:3000](http://localhost:3000).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
