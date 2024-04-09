@@ -17,7 +17,7 @@ To get started with this project, follow these instructions:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tcker/crypto-chatbot
+   git clone https://github.com/tcker/crypto-chatbot/tree/main/Test%20Ai%20bot
    ```
 
 2. Navigate to the project directory:
